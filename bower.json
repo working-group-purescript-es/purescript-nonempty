@@ -16,15 +16,15 @@
     "package.json"
   ],
   "dependencies": {
-    "purescript-control": "^5.0.0",
-    "purescript-foldable-traversable": "^5.0.0",
-    "purescript-maybe": "^5.0.0",
-    "purescript-prelude": "^5.0.0",
-    "purescript-tuples": "^6.0.0",
-    "purescript-unfoldable": "^5.0.0"
+    "purescript-control": "https://github.com/working-group-purescript-es/purescript-control.git#es-modules",
+    "purescript-foldable-traversable": "https://github.com/working-group-purescript-es/purescript-foldable-traversable.git#es-modules",
+    "purescript-maybe": "https://github.com/working-group-purescript-es/purescript-maybe.git#es-modules",
+    "purescript-prelude": "https://github.com/working-group-purescript-es/purescript-prelude.git#es-modules",
+    "purescript-tuples": "https://github.com/working-group-purescript-es/purescript-tuples.git#es-modules",
+    "purescript-unfoldable": "https://github.com/working-group-purescript-es/purescript-unfoldable.git#es-modules"
   },
   "devDependencies": {
-    "purescript-assert": "^5.0.0",
-    "purescript-console": "^5.0.0"
+    "purescript-assert": "https://github.com/working-group-purescript-es/purescript-assert.git#es-modules",
+    "purescript-console": "https://github.com/working-group-purescript-es/purescript-console.git#es-modules"
   }
 }
